@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  background-color: #00ff44;
+}
+.header {
+  @import url(https://fonts.googleapis.com/css2?family=Alata&display=swap);
+  font-family: "Alata", sans-serif;
+}
